@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CONFIGURATION>
+    <HOST_NAME>localhost</HOST_NAME>
+    <PORT>8002</PORT>
+    <CONTEXT_PATH>/wm</CONTEXT_PATH>
+</CONFIGURATION>

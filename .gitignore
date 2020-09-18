@@ -1,0 +1,17 @@
+.idea/
+.setting/
+.settings/
+uploaded/
+log/
+bin/
+classes/
+dist/
+out/
+src/META-INF/
+classes/
+target/
+createJar.jardesc
+air_console.iml
+.jardesc
+.project
+.classpath
